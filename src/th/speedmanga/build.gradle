@@ -1,9 +1,9 @@
 ext {
     extName = 'Speed Manga'
     extClass = '.SpeedManga'
-    themePkg = 'mangathemesia'
-    baseUrl = 'https://speed-manga.com'
-    overrideVersionCode = 0
+    themePkg = 'mangareader'
+    baseUrl = 'https://speed-manga.net'
+    overrideVersionCode = 28
     isNsfw = true
 }
 
